@@ -1,0 +1,60 @@
+CodeAlpha Internship - Contact Directory (Sample Data)
+=======================================================
+
+--- Section 1: Team members ---
+Name: Aarav Sharma, Role: Python Developer, Email: aarav.sharma@codealpha.tech, Phone: +91 98765 43210
+Name: Priya Verma, Role: Data Analyst, Email: priya_verma92@gmail.com, Phone: +91 91234 56789
+Name: Rohan Gupta, Role: Web Developer, Email: rohan.gupta@yahoo.co.in, Phone: 080-2345-6789
+Name: Sneha Iyer, Role: Designer, Email: sneha.iyer@outlook.com
+Name: Karan Mehta, Role: Intern, Email: KARAN.MEHTA@GMAIL.COM
+
+--- Section 2: Company mail ids ---
+General enquiries: info@codealpha.tech
+Support: support@codealpha.tech (available 9 AM to 6 PM)
+Careers: careers@jobportal.com
+Billing: billing.dept@company-name.co.in
+Services: services@codealpha.tech
+
+--- Section 3: Forwarded message ---
+From: newsletter+october@techdigest.org
+To: aarav.sharma@codealpha.tech
+Cc: priya_verma92@gmail.com, rohan.gupta@yahoo.co.in
+Subject: Weekly Python Tips
+
+Hi everyone,
+Please reply to feedback@techdigest.org if you have suggestions.
+Visit https://www.techdigest.org/python for more tips.
+For urgent help, mail admin@mail.techdigest.org or call 1800-123-4567.
+
+--- Section 4: Meeting notes ---
+Attendees: Aarav (aarav.sharma@codealpha.tech), Priya (priya_verma92@gmail.com), Sneha (sneha.iyer@outlook.com).
+Action items:
+1. Aarav will email the final report to manager@bigcorp.in by Friday.
+2. Priya will send the dataset to data-team@analytics.io and research.lab@university.edu.
+3. Karan will share his resume at karan.mehta@gmail.com.
+Note: contact the HR team at hr.team@company.co.in for leave requests.
+
+--- Section 5: Messy / tricky lines ---
+Email me at test.user@gmail.com, or at backup@gmail.com.
+Is your id john-doe@my-site.org? Reply to (john-doe@my-site.org).
+Sales: sales_dept99@outlook.com; Marketing: marketing@brand.in.
+Student mail: student123@iitd.ac.in
+Old contact: old.user@oldcompany.com. (this company has closed)
+
+--- Section 6: Invalid items (should be ignored) ---
+hello@
+@gmail.com
+user@@gmail.com
+plainaddress
+name@domain
+just some text with an @ symbol alone
+Price: 25 @ 100 each
+
+--- Section 7: Other info (not emails) ---
+Website: www.codealpha.tech
+GitHub: github.com/codealpha
+Date: 19-10-2026, Time: 10:30 AM
+Order ID: ORD-45821, Amount: Rs. 2,500
+Address: 221B, MG Road, Pune, Maharashtra - 411001
+
+--- End of file ---
